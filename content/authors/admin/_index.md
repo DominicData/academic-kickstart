@@ -64,7 +64,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi! I'm Dominic Afuwape, a Cloud Engineer at Macquarie Investment Bank. I have a wide range of knowledge in the cloud space having worked on number of different projects and pass the AWS Solutions Architect Associate. My main programming languages are Python and Go though I know some C++. I have deployed modern cloud services like Grafana, Prometheus and sonarQube.
+Hi! I'm Dominic Afuwape, a Cloud Engineer at Macquarie Investment Bank. I have a wide range of knowledge in the cloud space having worked on number of different projects and passed the AWS Solutions Architect Associate exam.
 
+My main programming languages are Python and Go though I know some C++. I have deployed modern cloud services like Grafana, Prometheus and sonarQube.
+
+My other interests outside of work include Machine Learning, High Performance Computing and Optimization. Check out some of my work!
 
 
