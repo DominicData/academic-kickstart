@@ -40,10 +40,11 @@ date_format = "Jan 2006"
   location = "London"
   date_start = "2017-9-01"
   date_end = "2018-8-31"
-
+  description = """
   Responsibilities include:
 
   * Building websites
   * Deploying cloud architecture
   * Data Analytics
+  """
 +++
