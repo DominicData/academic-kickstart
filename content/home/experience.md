@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "Cognizant"
   company_url = ""
   location = "London"
-  date_start = "2017-9-01"
-  date_end = "2018-8-31"
+  date_start = "2017-09-01"
+  date_end = "2018-08-31"
   description = """
   Responsibilities include:
 
