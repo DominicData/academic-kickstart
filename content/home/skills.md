@@ -28,13 +28,13 @@ subtitle = ""
   
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "docker"
   description = "50%"
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "linux"
   description = "60%"
 
