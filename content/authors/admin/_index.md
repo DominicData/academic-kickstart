@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Cloud Infrastructure Engineering
+role: Systems Development Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Macquarie
+- name: Amazon Web Services
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include distributed systems, cloud native tooling and automation
 
 interests:
 - Machine learning & Artificial Intelligence
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: MSc Software Engineering
+    institution: Oxford University
+    year: 2021 (Ongoing)
   - course: MSc Scientific Computing
     institution: University College London
     year: 2019
@@ -61,7 +64,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm Cloud Engineer at Macquarie Investment Bank. I have a wide range of knowledge in the cloud space having worked on a number of different projects and passed the AWS Solutions Architect Associate exam.
+I'm a systems development engineer at Amazon Web Servcies. I have a wide range of knowledge in the cloud space having worked on a number of different projects and passed the AWS Solutions Architect Associate exam.
 
 My main programming languages are Python and Go though I know some C++. I have deployed modern cloud services like Grafana, Prometheus and sonarQube.
 

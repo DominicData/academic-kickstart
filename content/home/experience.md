@@ -18,16 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Systems Development Engineer"
+  company = "Amazon Web Services"
+  company_url = ""
+  location = "London"
+  date_start = "2021-09-06"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Coding internal tools
+  * Management and monitoring of services
+  """
+
+[[experience]]
   title = "Cloud Infrastructure Engineer"
   company = "Macquarie Group"
   company_url = ""
   location = "London"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2021-09-03"
   description = """
   Responsibilities include:
   
-  * Managing Linux operation systems
+  * Managing Linux operating systems
   * Implementing CI/CD
   * Deploying microservices
   * Building Cloud Architecture
